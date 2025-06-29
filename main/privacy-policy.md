@@ -98,7 +98,7 @@ The most recent version of this policy will always be accessible at:
 ## 8. Contact
 
 If you have any questions or concerns about this Privacy Policy or our data practices, contact us at:  
-**@bolaabanjo**  
+**@bolaabanjo** on X/Twitter
 Arc Legal, Nigeria
 
 ---
