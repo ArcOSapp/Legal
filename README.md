@@ -8,7 +8,7 @@ Arc is a platform that helps developers, designers, engineers, and other tech ta
 
 ## Documents
 
-- [Privacy Policy](./privacy-policy.md)  
+- [Privacy Policy](https://github.com/ArcOSapp/Legal/blob/main/main/privacy-policy.md)  
   Outlines how we collect, use, and protect your personal data.
 
 - [Terms of Service](./terms-of-service.md)  
